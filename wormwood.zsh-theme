@@ -30,7 +30,7 @@ print -P -r "%F{#6DC48E}$welcomePt1%f%F{#51B484}$welcomePt2%f%F{#1A936F}$welcome
 PROMPT=$'\n'
 
 #Static start of prompt If previous command was successful, use leaf emoji, otherwise terminal fairy
-PROMPT+="%(?:%F{#166F67}┌ %F{#88D498}‣ 🌿 ann » :%F{#166F67}┌ %F{#88D498}🧚 ann » )"
+PROMPT+="%(?:%F{#166F67}┌ %F{#88D498}‣ 🌿 ann » :%F{#166F67}┌ %F{#88D498}‣ 🧚 ann » )"
 #Path of current directory and optional git info 
 PROMPT+=$'%F{#1A936F}%~ $(git_prompt_info)%F{#166F67}\n└ %F{#88D498}➜ '
 
