@@ -1,6 +1,6 @@
 #! /bin/sh
 
-cp wormwood.zsh-theme $ZSH/themes/.
+cp *.zsh-theme $ZSH/themes/.
 
-echo "Please run:"
+echo "Please update your .zshrc and then run:"
 echo "source ~/.zshrc"
