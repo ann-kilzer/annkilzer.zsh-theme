@@ -4,7 +4,9 @@ Inspired by:
 - https://github.com/greywillfade/productivity/blob/main/oh-my-zsh/sally.zsh-theme
 - https://github.com/meiokubo/emoji.zsh-theme
 
-You will need to use [Iterm2](https://iterm2.com/) to take advantage of the extended colors.
+1. You will need to use [Iterm2](https://iterm2.com/) to take advantage of the extended colors.
+2. These themes use a custom banner that says "HELLO ANN" and you'll have to do some editing if you want it to greet you by name, assuming your name is not Ann. Go here: http://www.patorjk.com/software/taag/
+
 
 ## dango.zsh-theme
 pink-white-green 🍡
