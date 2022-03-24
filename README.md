@@ -13,7 +13,7 @@ pink-white-green 🍡
 
 
 ## wormwood.zsh-theme
-green 🌿 oh-my-zsh theme
+green 🌿 oh-my-zsh theme. When you make a mistake the little 🧚 comes out to greet you ✨
 
 <img width="850" alt="wormwood_zsh-theme" src="https://user-images.githubusercontent.com/4602369/159943948-351dffbe-219f-46fe-9b38-f72b69b81724.png">
 
